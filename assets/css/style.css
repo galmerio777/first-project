@@ -1,0 +1,30 @@
+/* fonts */
+
+
+/* common */
+
+
+/* buttons */
+
+
+/* container */
+.container {width: 1000px;margin: 0 auto;}
+
+
+/* header */
+.header {background-color: #ffffff;height: 80px;display: flex;align-items: center;}
+
+.header .container {justify-content: space-between;display: flex;}
+
+.header__left {display: flex;align-items: center;}
+
+.header__right {display: flex;align-items: center;}
+
+.logo {margin-right: 74px;}
+
+.menu__item+.menu__item {margin-left: 42px;}
+
+.socials {margin-right: 44px;}
+
+.socials__item:not(:last-child) {margin-right: 38px;}
+
