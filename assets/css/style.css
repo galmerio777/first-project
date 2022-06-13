@@ -147,4 +147,19 @@ button.btn.btn--circle {
     box-shadow: 5px 5px 5px 5px;
     
 }
+.section.section--hero {
+  margin-bottom: 58px;
+ 
+}
 
+
+
+.partners.partners--brands {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 258px;
+  margin-right: 258px;
+}
+.partners__item {
+  margin: 76px;
+}
