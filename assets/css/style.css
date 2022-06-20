@@ -145,21 +145,23 @@ button.btn.btn--circle {
     border-style: solid;
     background-color: #fff;
     box-shadow: 5px 5px 5px 5px;
-    
-}
-.section.section--hero {
+    }  
+
+    .section.section--hero {
   margin-bottom: 58px;
- 
 }
-
-
-
-.partners.partners--brands {
+section.partners.partners--brands {
   display: flex;
-  justify-content: space-between;
-  margin-left: 258px;
-  margin-right: 258px;
+  justify-content: center;
+  letter-spacing: 72px;
+
+   width: 100%;
+  margin: 0 auto;
+  padding: 0 15px;
+  max-width: 1208px;
+  margin-bottom: 59px;
 }
-.partners__item {
-  margin: 76px;
+section.plan.and.manage {
+  margin-top: 265px;
+  
 }
