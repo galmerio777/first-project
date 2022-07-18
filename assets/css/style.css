@@ -657,6 +657,5 @@ button.btn.btn--circle {
 .container__lgo {
     display: flex;
     justify-content: flex-end;
-    /* flex-direction: row; */
     width: 100%;
 }
