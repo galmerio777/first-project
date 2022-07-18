@@ -653,3 +653,10 @@ button.btn.btn--circle {
   margin-left: 485px;
   width: 445px;
 }
+
+.container__lgo {
+    display: flex;
+    justify-content: flex-end;
+    /* flex-direction: row; */
+    width: 100%;
+}
