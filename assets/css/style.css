@@ -640,22 +640,51 @@ button.btn.btn--circle {
     box-shadow: 5px 5px 5px 5px;
     }  
 
-.partners.partners--brands {
+
  
-}
+
 /*plan and manage*/
 .container-container__manage {
   margin: 0 auto;
   padding: 0 15px;
-  
+  display: flex;
 }
-.title-plan {
-  margin-left: 485px;
-  width: 445px;
+.title-plan{
+  display: flex;
+  flex-direction: column;
+margin-left: 482px;
+margin-top: 48px;
+border: solid;
+max-width: 427px;
+
+}
+.container__lgo {
+  display: flex;
+  align-items: center;
+}
+.lgo {
+  margin-right: 212px;
+}
+.title__title-h6 {
+font-size: 10px;
+font-family: Roboto;
+color: #3D4F9F;
+margin-bottom: 39px;
+}
+.title__title-h2 {
+font-size: 36px;
+font-family: Quicksand;
+color: #3D4F9F;
+margin: 0px;
+}
+.title__title-p {
+  font-size: 15px;
+  font-family: Roboto;
+  color: #8D96BD;
+  letter-spacing: 1px;
+}
+.btn-1 {
+  font-weight: 259px;
+  height: 43px;
 }
 
-.container__lgo {
-    display: flex;
-    justify-content: flex-end;
-    width: 100%;
-}
